@@ -1,5 +1,4 @@
-# kilberz
- 
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer and designer by profession. \
@@ -34,4 +33,4 @@
 
 
 <a href="https://www.linkedin.com/in/kilbers/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:jason@jasonkilby.co.uk"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:jason@jasonkilby.co.uk"><img alt="Email" src="https://img.shields.io/badge/Email-ffffff?style=flat&logo=email&logoColor=white" /></a> &nbsp;
