@@ -2,8 +2,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer and designer by profession. \
-💻 &nbsp; I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
-🌱 &nbsp; I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
 ✍️ &nbsp; In my free time, I love taking Gunther (my dog) out for a long walk.\
 💬 &nbsp; Feel free to reach out to me for general consulting.\
 ✉️ &nbsp; You can email me at jason@jasonkilby.co.uk I'll try to respond as soon as possible!\
