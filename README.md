@@ -1,11 +1,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and designer by profession. \
+💡 &nbsp; I'm a software developer. \
 ✍️ &nbsp; In my free time, I love taking Gunther (my dog) out for a long walk.\
-💬 &nbsp; Feel free to reach out to me for general consulting.\
+💬 &nbsp; Feel free to reach out to me for a chat.\
 ✉️ &nbsp; You can email me at jason@jasonkilby.co.uk I'll try to respond as soon as possible!\
-📄 &nbsp; You can check my [LinkedIn](https://www.linkedin.com/in/kilbers/) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -30,5 +29,4 @@
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/kilbers/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:jason@jasonkilby.co.uk"><img alt="Email" src="https://img.shields.io/badge/Email-ffffff?style=flat&logo=email&logoColor=white" /></a> &nbsp;
