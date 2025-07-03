@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer. \
-✍️ &nbsp; In my free time, I love taking Gunther (my dog) out for a long walk.\
+✍️ &nbsp; Now 38 years old, I've been working with code since I was 16.
 💬 &nbsp; Feel free to reach out to me for a chat.\
 ✉️ &nbsp; You can email me at jason@jasonkilby.co.uk I'll try to respond as soon as possible!\
 
