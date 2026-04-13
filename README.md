@@ -1,8 +1,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer. \
-✍️ &nbsp; Now 38 years old, I've been working with code since I was 16.
+💡 &nbsp; I'm a Software Engineer. \
+✍️ &nbsp; I've got 24 years experience.
 💬 &nbsp; Feel free to reach out to me for a chat.\
 ✉️ &nbsp; You can email me at jason@jasonkilby.co.uk I'll try to respond as soon as possible!\
 
